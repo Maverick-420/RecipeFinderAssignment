@@ -30,6 +30,7 @@ This project uses TheMealDB API to fetch recipe data. Below are the key endpoint
 
 Search Recipe by Name:
 https://www.themealdb.com/api/json/v1/1/search.php?s={query}
+
 Recipe Details by ID:
 https://www.themealdb.com/api/json/v1/1/lookup.php?i={id}
 
